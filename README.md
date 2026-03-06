@@ -2,7 +2,7 @@
 <h3 align="center">ML Data Associate II @ AWS Bedrock | AI · Data · Cloud | Bengaluru, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF2E2E&center=true&vCenter=true&width=600&lines=ML+Data+Associate+II+%40+AWS+Bedrock;LLM+Training+%7C+RAG+Systems+%7C+ETL+Pipelines;Agentic+AI+%7C+MCP+%7C+GenAI+Engineer;Building+the+backbone+of+intelligent+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF2E2E&center=true&vCenter=true&width=600&lines=LLM+Training+%7C+RAG+Systems+%7C+ETL+Pipelines;Agentic+AI+%7C+MCP+%7C+GenAI+Engineer;Building+the+backbone+of+intelligent+systems" alt="Typing SVG" />
 </p>
 
 ---
